@@ -1,4 +1,6 @@
-### Hi there! 👋
+### Hi there! 👋 
+
+I'm Shashwat Gupta, a tech enthusiast with a penchant for turning challenges into triumphs.
 
 <!--
 **shashwatgupta2000/shashwatgupta2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
 
 #### 🏫 The University of Sydney (Feb 2019 – June 2023)
 Bachelor of Advanced Computing (Computational Data Science)
-- Specializing in Game Programming, Database Management, Web Design Usability, Web Security, AI, Human-in-a-loop Data Analytics, NLP, Large Scale Networking, Cybersecurity, Visual Analytics, Data Analysis in Social Sciences, and Scalable Data Management.
+- Game programming, Database management, Website design usability and Web security, Artificial intelligence, Human-in-a-loop Data Analytics. Natural language processing, Large scale networking, Cyber security, Visual analytics, Data analysis in the social sciences and Scalable data management.
 - Honours Thesis: Crafted a hands-free Android OCR Shopping App. The idea behind this application was to support visually impaired users and promote hands-free shopping experience.
 
 ### 💼 Work Experience
@@ -50,3 +52,30 @@ Bachelor of Advanced Computing (Computational Data Science)
 
 #### ❤️ Head of Digital Marketing and Finance at Heart-to-Heart Hong Kong (July 2020 – Sep 2020)
 - Spearheaded a student project providing 200 quality food care packages during the pandemic, raising HKD 44,450 for the cause.
+
+### 🏆 Achievements:
+
+🥈 Silver Awardee at AYP (formerly The Duke of Edinburgh’s Award): Conquering service, skills, physical recreation, and adventurous journeys, because coding is an adventure too!
+🏸 HKSSF A Grade Badminton Most Improved: Just like my code, always evolving.
+🏏 Under 15 Elite Division Runner-up in Cricket: Proving that coding and sports both require strategy and precision.
+
+### 💻 Tech Alchemist:
+
+#### Languages: Python, Java, R, SQL, NoSQL (MongoDB), Bash - I speak the language of computers fluently.
+#### Toolbox: GitHub, Jupyter Notebook, Tableau, Alteryx - My code is my canvas, and these are my brushes.
+#### Skills: Problem-solving, public speaking, team management - Because coding is not just about algorithms; it's about the people too.
+#### 🤔 Critical Thinker & Data Maestro: Analyzing data like Sherlock Holmes solves mysteries.
+#### Specialties: HTML, CSS, JavaScript - Crafting the web one line of code at a time.
+
+
+### 🌐 Beyond Code:
+
+🏸 Badminton, 🏓 Table Tennis, ♟ Chess: Mastering the game, whether on the board or in the code editor.
+🗣 Debating, 💰 Finance, 📈 Stock Market: Discussing ideas, debating strategies, and optimizing portfolios.
+🏡 Real Estate, 📊 Business Management: Building virtual and physical empires.
+
+
+### 💡 Life Motto:
+"Code with the precision of a chess grandmaster, the agility of a badminton pro, and the strategic mind of a business tycoon."
+
+Join me in the quest for bug-free realms and data-driven adventures. Let's code the future together! 🚀✨
